@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Python
+Programmed very basic code for tic tac toe game in python using jupyter notebook.
